@@ -466,5 +466,19 @@
     "sectors": [
       "Hapes Cluster"
     ]
+  },
+  {
+    "factionName": "Mandalorians",
+    "colour": "Fuchsia",
+    "sectors": [
+      "Mandalore"
+    ]
+  },
+  {
+    "factionName": "Corporate Sector Authority",
+    "colour": "Teal",
+    "sectors": [
+      "Corporate Sector"
+    ]
   }
 ]
