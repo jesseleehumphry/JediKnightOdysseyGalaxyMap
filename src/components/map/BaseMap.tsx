@@ -87,10 +87,10 @@ export class BaseMap extends React.Component {
             polygonOptions={{ weight: 0, opacity: 0 }}>
             {this.createMarkers()}
           </MarkerClusterGroup>
-          <LayersControl.Overlay name="Hyperspace routes" checked={false}>
+          <LayersControl.Overlay name="Hyperspace routes" checked={true}>
             <LayerGroup>{this.createHyperspace()}</LayerGroup>
           </LayersControl.Overlay>
-          <LayersControl.Overlay name="Grid" checked={true}>
+          <LayersControl.Overlay name="Grid" checked={false}>
             <LayerGroup>{this.createGrid()}</LayerGroup>
           </LayersControl.Overlay>
           <LayersControl.Overlay name=" Sectors" checked={true}>
