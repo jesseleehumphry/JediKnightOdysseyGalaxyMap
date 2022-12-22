@@ -1,7 +1,7 @@
 [
   {
     "factionName": "Galactic Republic",
-    "colour": "gold",
+    "colour": "Gold",
     "sectors": [
       "Seitia",
       "Saijo",
@@ -314,14 +314,12 @@
       "Doldur",
       "Javin",
       "Seswenna",
-      "Spinward",
       "Dalonbian",
       "Veragi",
       "D'Astan",
       "Chopani",
       "Corva",
       "Meram",
-      "Mieru'kar",
       "Kanz",
       "Relgim",
       "Raioballo",
@@ -512,10 +510,36 @@
       "Zoraster",
       "Galov",
       "Tammuz",
-      "Quiberon",
+      "Quiberon"
+    ]
+  },
+  {
+    "factionName": "Shadow Syndicate",
+    "colour": "RebeccaPurple",
+    "sectors": [
       "Savareen",
       "Gaulus",
-      "Arkanis"
+      "Arkanis",
+      "Dalchon",
+      "Karthakk",
+      "Tolonda",
+      "Pelgrin",
+      "Kiblini",
+      "Hunnovers",
+      "Grohl",
+      "Ferra",
+      "Bitrose",
+      "Astal",
+      "Lol",
+      "Dail",
+      "Cor'ric",
+      "Portmoak",
+      "Thuris",
+      "Skine",
+      "Merel",
+      "Samix",
+      "Sujimis",
+      "Instrop"
     ]
   },
   {
@@ -527,5 +551,13 @@
     "factionName": "The Sith",
     "colour": "red",
     "sectors": "Sith Worlds"
+  },
+  {
+    "factionName": "Droid Conglomerate",
+    "colour": "LightSalmon",
+    "sectors": [
+      "Mieru'kar",
+      "Spinward"
+    ]
   }
 ]
