@@ -16,6 +16,9 @@
 }
 .leaflet-container {
   overflow: hidden;
+  background-image: url(starry-background.jpg) !important;
+  background-size: cover !important;
+  background-position: center center !important;
 }
 .leaflet-tile,
 .leaflet-marker-icon,
