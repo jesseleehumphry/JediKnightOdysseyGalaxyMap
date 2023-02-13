@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/galaxy-map/static/css/main.659ad75e.chunk.css",
-    "main.js": "/galaxy-map/static/js/main.25af9673.chunk.js",
-    "main.js.map": "/galaxy-map/static/js/main.25af9673.chunk.js.map",
+    "main.js": "/galaxy-map/static/js/main.8b0a24f8.chunk.js",
+    "main.js.map": "/galaxy-map/static/js/main.8b0a24f8.chunk.js.map",
     "runtime-main.js": "/galaxy-map/static/js/runtime-main.18fb0681.js",
     "runtime-main.js.map": "/galaxy-map/static/js/runtime-main.18fb0681.js.map",
     "static/css/2.4ace2cb6.chunk.css": "/galaxy-map/static/css/2.4ace2cb6.chunk.css",
     "static/js/2.e9613c48.chunk.js": "/galaxy-map/static/js/2.e9613c48.chunk.js",
     "static/js/2.e9613c48.chunk.js.map": "/galaxy-map/static/js/2.e9613c48.chunk.js.map",
     "index.html": "/galaxy-map/index.html",
-    "precache-manifest.4b2ef3dfb55154582f7d392d641ac9de.js": "/galaxy-map/precache-manifest.4b2ef3dfb55154582f7d392d641ac9de.js",
+    "precache-manifest.03a09df76ea85c203b592f31548f17dd.js": "/galaxy-map/precache-manifest.03a09df76ea85c203b592f31548f17dd.js",
     "service-worker.js": "/galaxy-map/service-worker.js",
     "static/css/2.4ace2cb6.chunk.css.map": "/galaxy-map/static/css/2.4ace2cb6.chunk.css.map",
     "static/css/main.659ad75e.chunk.css.map": "/galaxy-map/static/css/main.659ad75e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4ace2cb6.chunk.css",
     "static/js/2.e9613c48.chunk.js",
     "static/css/main.659ad75e.chunk.css",
-    "static/js/main.25af9673.chunk.js"
+    "static/js/main.8b0a24f8.chunk.js"
   ]
 }
