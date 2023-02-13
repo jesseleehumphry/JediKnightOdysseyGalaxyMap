@@ -1,7 +1,7 @@
 {
   "name": "galaxy-map",
   "version": "0.1.0",
-  "homepage": "http://www.galaxyrp.uk/galaxy-map",
+  "homepage": "https://jesseleehumphry.github.io/JediKnightOdysseyMap/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
