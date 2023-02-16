@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JediKnightOdysseyGalaxyMap/static/css/main.46423683.chunk.css",
-    "main.js": "/JediKnightOdysseyGalaxyMap/static/js/main.8eb07e4a.chunk.js",
-    "main.js.map": "/JediKnightOdysseyGalaxyMap/static/js/main.8eb07e4a.chunk.js.map",
+    "main.js": "/JediKnightOdysseyGalaxyMap/static/js/main.7ce82e44.chunk.js",
+    "main.js.map": "/JediKnightOdysseyGalaxyMap/static/js/main.7ce82e44.chunk.js.map",
     "runtime-main.js": "/JediKnightOdysseyGalaxyMap/static/js/runtime-main.54d7dd34.js",
     "runtime-main.js.map": "/JediKnightOdysseyGalaxyMap/static/js/runtime-main.54d7dd34.js.map",
     "static/css/2.4ace2cb6.chunk.css": "/JediKnightOdysseyGalaxyMap/static/css/2.4ace2cb6.chunk.css",
     "static/js/2.051d7b61.chunk.js": "/JediKnightOdysseyGalaxyMap/static/js/2.051d7b61.chunk.js",
     "static/js/2.051d7b61.chunk.js.map": "/JediKnightOdysseyGalaxyMap/static/js/2.051d7b61.chunk.js.map",
     "index.html": "/JediKnightOdysseyGalaxyMap/index.html",
-    "precache-manifest.4f17d34032faf5bf2eeac5842cd52b17.js": "/JediKnightOdysseyGalaxyMap/precache-manifest.4f17d34032faf5bf2eeac5842cd52b17.js",
+    "precache-manifest.63825f5f9e4923cd54376abaaeccfb41.js": "/JediKnightOdysseyGalaxyMap/precache-manifest.63825f5f9e4923cd54376abaaeccfb41.js",
     "service-worker.js": "/JediKnightOdysseyGalaxyMap/service-worker.js",
     "static/css/2.4ace2cb6.chunk.css.map": "/JediKnightOdysseyGalaxyMap/static/css/2.4ace2cb6.chunk.css.map",
     "static/css/main.46423683.chunk.css.map": "/JediKnightOdysseyGalaxyMap/static/css/main.46423683.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4ace2cb6.chunk.css",
     "static/js/2.051d7b61.chunk.js",
     "static/css/main.46423683.chunk.css",
-    "static/js/main.8eb07e4a.chunk.js"
+    "static/js/main.7ce82e44.chunk.js"
   ]
 }

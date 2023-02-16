@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JediKnightOdysseyGalaxyMap/precache-manifest.4f17d34032faf5bf2eeac5842cd52b17.js"
+  "/JediKnightOdysseyGalaxyMap/precache-manifest.63825f5f9e4923cd54376abaaeccfb41.js"
 );
 
 self.addEventListener('message', (event) => {
